@@ -206,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+DeepLearning/data/cifar-10-batches-py/batches.meta
+DeepLearning/data/cifar-10-batches-py/data_batch_1
+DeepLearning/data/cifar-10-batches-py/data_batch_2
+DeepLearning/data/cifar-10-batches-py/data_batch_3
+DeepLearning/data/cifar-10-batches-py/data_batch_4
+DeepLearning/data/cifar-10-batches-py/data_batch_5
+DeepLearning/data/cifar-10-batches-py/readme.html
+DeepLearning/data/cifar-10-batches-py/test_batch
+DeepLearning/data/cifar-10-python.tar.gz
