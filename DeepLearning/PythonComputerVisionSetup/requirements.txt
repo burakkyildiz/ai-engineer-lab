@@ -1,0 +1,4 @@
+# terminal -> pip install -r requirements.txt
+# bu projenin ayaga kalkmasi icin gerekli olan ek kutuphaneleri yaziyoruz
+torch
+torchvision
