@@ -16,7 +16,7 @@ data_transform = transforms.Compose([
       transforms.ToTensor()
     ])
 
-train_dataloader, test_dataloader, class_names = setup_data.create_dataloaders(
+_, _ , class_names = setup_data.create_dataloaders(
     train_dir=train_dir,
     test_dir=test_dir,
     transform=data_transform,
